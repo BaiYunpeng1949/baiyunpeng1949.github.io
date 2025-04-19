@@ -25,6 +25,6 @@ social:
 
 contacts:
 - {
-  name: 'Bai Yunpeng (白云鹏)', title: 'PhD Student', department: 'Computer Science', institution: 'National University of Singapore', institution_address: '21 Lower Kent Ridge Rd, Singapore 119077', phone: '(+65) 8941-9601', email: 'bai_yunpeng99@u.nus.edu', office: 'Innovation 4.0 #5',
+  name: 'Bai Yunpeng (白云鹏)', title: 'PhD Student', department: 'Computer Science', institution: 'National University of Singapore', institution_address: '21 Lower Kent Ridge Rd, Singapore 119077', phone: '(+65) 8941-9601', email: 'bai_yunpeng99@u.nus.edu', office: 'TBD',
   image: 'assets/img/contact.jpg',
 }
