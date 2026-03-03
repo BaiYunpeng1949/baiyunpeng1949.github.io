@@ -12,6 +12,24 @@ featured:
   github: 'https://github.com/Synteraction-Lab/heads-up-multitasker',
   img: '/publications/hum/img.jpg',
 }
+- {
+  name: 'A Resource-Rational Principle for Modeling Visual Attention Control',
+  venue: 'CHI26 Student Mentor Program',
+  authors: 'Bai Yunpeng, Shengdong Zhao, Antti Oulasvirta',
+  key_word: 'Computational Modeling',
+  pdf: 'PDF',
+  pdf_url: '/publications/chi26smp/paper.pdf',
+}
+- {
+  name: 'Simulation-based Optimization for Augmented Reading',
+  venue: 'CHI26 STAR',
+  authors: 'Bai Yunpeng, Aleksi Ikkala, Antti Oulasvirta, Shengdong Zhao, Lucia J. Wang, Pengzhi Yang, Peisen Xu',
+  key_word: 'Model-based Simulation',
+  pdf: 'PDF',
+  pdf_url: '/publications/chi26star/paper.pdf',
+}
 
 index:
 - {name: 'Heads-Up Multitasker: Simulating Attention Switching On Optical Head-Mounted Displays. Bai Yunpeng, Aleksi Ikkala, Antti Oulasvirta, Shengdong Zhao, Lucia J. Wang, Pengzhi Yang, Peisen Xu', url: '/publications/paper.pdf'}
+- {name: 'A Resource-Rational Principle for Modeling Visual Attention Control. Bai Yunpeng', url: '/publications/paper.pdf'}
+- {name: 'Simulation-based Optimization for Augmented Reading. Bai Yunpeng, Shengdong Zhao, Antti Oulasvirta', url: '/publications/paper.pdf'}
