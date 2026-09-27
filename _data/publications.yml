@@ -1,5 +1,18 @@
 featured:
 - {
+    name: 'Hierarchical Resource Rationality Explains Human Reading Behavior',
+    venue: 'Nature Human Behaviour',
+    authors: 'Bai Yunpeng, X. Jin, Shengdong Zhao, Antti Oulasvirta',
+    key_word: 'Computational Modeling',
+    pdf: 'PDF',
+    pdf_url: '/publications/chi26smp/paper.pdf',
+    video: 'Video',
+    video_url: '',
+    code: 'Code',
+    github: 'https://github.com/BaiYunpeng1949/hierarchical-resource-rational-reader/',
+    img: '/publications/nhb/img.jpg',
+}
+- {
   name: 'A Resource-Rational Principle for Modeling Visual Attention Control',
   venue: 'CHI26 Student Mentor Program',
   authors: 'Bai Yunpeng',
