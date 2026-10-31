@@ -1,6 +1,12 @@
-url: "https://baiyunpeng1949.github.io" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog, if none, keep it empty
-title: "Bai Yunpeng (白云鹏)" # the name of your site
-description: "Chinese, PhD Candidate at NUS" # a brief description of your site or your tagline
-# theme: academic-jekyll-theme
-remote_theme: academic-jekyll-theme
+title: Bai Yunpeng
+chinese_name: 白云鹏
+position: Postdoctoral Researcher
+affiliation: Aalto University
+affiliation_link: https://www.aalto.fi/en
+email: yunpeng.bai@aalto.fi
+description: Bai Yunpeng studies human-computer interaction, computational rationality, and reinforcement learning at Aalto University.
+url: https://baiyunpeng1949.github.io
+baseurl: ""
+canonical: https://baiyunpeng1949.github.io/
+markdown: kramdown
+exclude: [Gemfile, Gemfile.lock, README.md, README_zh_Hans.md, README_zh_Hant.md, README_de.md, LICENSE, html_source_file, original-home.html, original-contact.html, original-cv.html, preview, MIGRATION.md]

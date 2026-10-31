@@ -1,4 +1,3 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
-gem "academic-jekyll-theme"
+gem "jekyll", "~> 4.3"
+gem "webrick", "~> 1.8"
